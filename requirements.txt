@@ -1,0 +1,4 @@
+langchain-core
+langchain-openai
+pydantic>=2
+python-dotenv
